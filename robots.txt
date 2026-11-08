@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sinamo93.github.io/sinamo/sitemap.xml
+Sitemap: https://sinamo93.github.io/sitemap.xml
