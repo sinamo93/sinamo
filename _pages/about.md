@@ -24,6 +24,7 @@ announcements:
 latest_posts:
   enabled: false # hides the default blog posts section
 ---
+
 <style>
   .profile {
     margin-top: -5.5rem !important;
@@ -87,11 +88,12 @@ latest_posts:
   });
 </script>
 
-Hi! I am **Sina Mohammadi**, a Ph.D. Candidate in Electrical and Computer Engineering at the **University of Michigan–Dearborn**, advised by [Wencong Su](https://www.suwencong.com/). My doctoral dissertation focuses on *Machine Learning Applications for Optimizing Power Systems Operation*.
+Hi! I am **Sina Mohammadi**, a Ph.D. Candidate in Electrical and Computer Engineering at the **University of Michigan–Dearborn**, advised by [Wencong Su](https://www.suwencong.com/). My doctoral dissertation focuses on _Machine Learning Applications for Optimizing Power Systems Operation_.
 
 Prior to joining UM-Dearborn in 2023, I earned my M.Sc. in Electrical Engineering from the University of Zanjan (2019) and my B.Sc. in Electrical Engineering from the University of Kurdistan (2016).
 
 **Research Experience & Focus:**
+
 - **Power System Optimization & AI:** Physics-informed neural networks (PINNs) and surrogate modeling for Optimal Power Flow (OPF), Large Language Models (LLMs) for economic dispatch, and hybrid energy storage coordination for AI data centers.
 - **Distribution Grid State & Topology Estimation:** Distance-Aware Mutual Information (DAMI) and hierarchical clustering of smart meter voltage measurements for low-voltage distribution network topology recovery.
 - **Power System Protection & Phasor Estimation:** Sub-cycle neural network and deep symbolic regression for fault current phasor estimation under decaying DC offsets, and pilot-based protection for meshed microgrids.

@@ -1,5 +1,5 @@
 {
-"basics": {
+  "basics": {
     "name": "Sina Mohammadi",
     "label": "Ph.D. Candidate in Electrical & Computer Engineering",
     "email": "sinamo[at]umich[dot]edu",
@@ -19,10 +19,7 @@
       "startDate": "2023",
       "endDate": "Present",
       "score": "3.88/4.0",
-      "courses": [
-        "Dissertation: Machine Learning Applications for Optimizing Power Systems Operation",
-        "Supervisor: Prof. Wencong Su"
-      ]
+      "courses": ["Dissertation: Machine Learning Applications for Optimizing Power Systems Operation", "Supervisor: Prof. Wencong Su"]
     },
     {
       "institution": "University of Zanjan",
@@ -43,9 +40,7 @@
       "startDate": "2012",
       "endDate": "2016",
       "score": "3.19/4.0",
-      "courses": [
-        "Thesis: Analysis, Modeling and Comparison of Different Types of Power Converters in Switched Reluctance Motor"
-      ]
+      "courses": ["Thesis: Analysis, Modeling and Comparison of Different Types of Power Converters in Switched Reluctance Motor"]
     }
   ],
   "work": [
@@ -67,9 +62,7 @@
       "location": "Zanjan, Iran",
       "startDate": "2021",
       "endDate": "2021",
-      "highlights": [
-        "Proposed a novel pilot-based unit protection method for meshed microgrids using apparent resistance estimation."
-      ]
+      "highlights": ["Proposed a novel pilot-based unit protection method for meshed microgrids using apparent resistance estimation."]
     }
   ],
   "skills": [
