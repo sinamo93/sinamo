@@ -8,13 +8,13 @@
     - name: Institution
       value: University of Michigan-Dearborn
     - name: Email
-      value: sinamo@umich.edu
+      value: sinamo[at]umich[dot]edu
     - name: Phone
       value: +1 (313) 467-2214
     - name: Location
       value: Dearborn Heights, MI, USA
     - name: Languages
-      value: Kurdish (Native), Farsi (Bilingual), English (Professional Working), Arabic (Elementary)
+      value: Kurdish (Native), Farsi (Bilingual), English (Professional Working)
 
 - title: Education
   type: time_table

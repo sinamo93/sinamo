@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: First-author doctoral research projects in power systems optimization, protection, and machine learning.
 nav: true

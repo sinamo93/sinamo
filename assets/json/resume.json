@@ -2,8 +2,8 @@
 "basics": {
     "name": "Sina Mohammadi",
     "label": "Ph.D. Candidate in Electrical & Computer Engineering",
-    "email": "sinamo@umich.edu",
-    "url": "https://sinamo93.github.io/sinamo/",
+    "email": "sinamo[at]umich[dot]edu",
+    "url": "https://sinamo93.github.io/",
     "summary": "Ph.D. candidate at University of Michigan-Dearborn specializing in power systems engineering, AC Optimal Power Flow (ACOPF), physics-informed neural networks, and distribution network state estimation.",
     "location": {
       "city": "Dearborn Heights",
@@ -101,10 +101,6 @@
     {
       "language": "English",
       "fluency": "Professional Working"
-    },
-    {
-      "language": "Arabic",
-      "fluency": "Elementary"
     }
   ]
 }
