@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sinamo93
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - sinamo93/sinamo
+  # Add any other public repositories you want to showcase below in the format:
+  # - sinamo93/your-repo-name
