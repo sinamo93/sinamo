@@ -17,7 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # set to true if you want to add news items in the _news/ folder
+  enabled: true # displays the news timeline on your homepage
+  scrollable: true # adds a vertical scroll if the list grows long
+  limit: 6 # shows your 6 recent announcements
 
 latest_posts:
   enabled: false # hides the default blog posts section
