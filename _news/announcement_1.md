@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-06-15 09:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper, [Topology Recovery in Distribution Networks Using Distance-Aware Mutual Information (DAMI) Method](https://doi.org/10.1016/j.epsr.2026.114307), is out in *Electric Power Systems Research*.
