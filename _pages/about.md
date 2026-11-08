@@ -12,7 +12,7 @@ profile:
     <p>Lab: Power Engineering Lab</p>
     <p>2383 Richard Dr, room 1042</p>
     <p>Dearborn, MI 48128</p>
-    <p><strong>Email:[sinamo@umich.edu](sinamo@umich.edu)</p>
+    <p><strong>Email:sinamo@umich.edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
