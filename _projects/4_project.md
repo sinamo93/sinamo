@@ -12,4 +12,5 @@ Solving AC and DC Optimal Power Flow (OPF) repeatedly in real-time grid operatio
 This research investigates machine learning surrogate models and label-free Physics-Informed Neural Networks (PINNs) that embed power balance and physical network constraints directly into the training loss, achieving fast, high-accuracy OPF dispatch solutions compared to analytical solvers.
 
 **Publication:**
-* **S. Mohammadi**, V. Hai-Bui, W. Su, B. Wang (2024). "Surrogate Modeling for Solving OPF: A Review," *Sustainability*, vol. 16, no. 22, p. 9851. [DOI: 10.3390/su16229851](https://doi.org/10.3390/su16229851)
+
+- **S. Mohammadi**, V. Hai-Bui, W. Su, B. Wang (2024). "Surrogate Modeling for Solving OPF: A Review," _Sustainability_, vol. 16, no. 22, p. 9851. [DOI: 10.3390/su16229851](https://doi.org/10.3390/su16229851)

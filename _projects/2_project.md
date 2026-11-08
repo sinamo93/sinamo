@@ -12,4 +12,5 @@ Accurate topology knowledge is essential for distribution system state estimatio
 This project introduces the **Distance-Aware Mutual Information (DAMI)** method to reconstruct radial distribution network topologies directly from nodal smart meter measurements, capturing both statistical dependency and electrical distance between nodes.
 
 **Publication:**
-* **S. Mohammadi**, V. Hai-Bui, W. Su (2026). "Topology Recovery in Distribution Networks Using Distance-Aware Mutual Information (DAMI) Method," *Electric Power Systems Research*, vol. 265, p. 114307. [DOI: 10.1016/j.epsr.2026.114307](https://doi.org/10.1016/j.epsr.2026.114307)
+
+- **S. Mohammadi**, V. Hai-Bui, W. Su (2026). "Topology Recovery in Distribution Networks Using Distance-Aware Mutual Information (DAMI) Method," _Electric Power Systems Research_, vol. 265, p. 114307. [DOI: 10.1016/j.epsr.2026.114307](https://doi.org/10.1016/j.epsr.2026.114307)

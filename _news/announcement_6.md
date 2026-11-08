@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our preprint on [Adaptive Grid-Mode-Aware Hybrid Energy Storage Control for AI Data Center Oscillation Mitigation](https://doi.org/10.48550/arXiv.2611.05939) is now available on arXiv and submitted to *IEEE PESGM 2027*.
+Our preprint on [Adaptive Grid-Mode-Aware Hybrid Energy Storage Control for AI Data Center Oscillation Mitigation](https://doi.org/10.48550/arXiv.2611.05939) is now available on arXiv and submitted to _IEEE PESGM 2027_.

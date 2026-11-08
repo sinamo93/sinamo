@@ -30,4 +30,5 @@ This project investigates the reasoning capabilities of Large Language Models (L
 ---
 
 **Publication:**
-- **S. Mohammadi**, A. Hassan, R. Haghighi, V. Bui, W. Su (2025). "Large Language Models for Solving Economic Dispatch," *2025 IEEE Energy Conversion Congress and Exposition (ECCE)*, Philadelphia, PA, USA. [DOI: 10.1109/ECCE58356.2025.11259643](https://doi.org/10.1109/ECCE58356.2025.11259643)
+
+- **S. Mohammadi**, A. Hassan, R. Haghighi, V. Bui, W. Su (2025). "Large Language Models for Solving Economic Dispatch," _2025 IEEE Energy Conversion Congress and Exposition (ECCE)_, Philadelphia, PA, USA. [DOI: 10.1109/ECCE58356.2025.11259643](https://doi.org/10.1109/ECCE58356.2025.11259643)

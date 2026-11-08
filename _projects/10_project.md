@@ -24,4 +24,5 @@ Low-voltage (LV) secondary distribution grids rarely have real-time switch monit
 ---
 
 **Publication:**
-- **S. Mohammadi**, V. Bui, W. Su (2025). "A Novel Topology Recovery Method for Low Voltage Distribution Networks," *2025 IEEE Power & Energy Society General Meeting (PESGM)*, Austin, TX, USA. [DOI: 10.1109/PESGM52009.2025.11225097](https://doi.org/10.1109/PESGM52009.2025.11225097)
+
+- **S. Mohammadi**, V. Bui, W. Su (2025). "A Novel Topology Recovery Method for Low Voltage Distribution Networks," _2025 IEEE Power & Energy Society General Meeting (PESGM)_, Austin, TX, USA. [DOI: 10.1109/PESGM52009.2025.11225097](https://doi.org/10.1109/PESGM52009.2025.11225097)

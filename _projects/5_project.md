@@ -12,4 +12,5 @@ AI training and inference workloads generate steep power ramps that degrade batt
 This project designs a grid-mode-aware coordination framework for a Hybrid Energy Storage System (HESS)—combining high-energy Battery Energy Storage with high-power Supercapacitors—tuned via Bayesian Optimization to smooth volatile AI data center power profiles while minimizing degradation.
 
 **Publication:**
-* **S. Mohammadi**, Q.M. Hoang, V.H. Bui, W. Su (2026). "Grid-Mode-Aware AI Data Center Power Smoothing via Bayesian-Optimized Hybrid Energy Storage System," *2027 IEEE Texas Power and Energy Conference (TPEC)* (Submitted). [arXiv:2611.03436](https://doi.org/10.48550/arXiv.2611.03436)
+
+- **S. Mohammadi**, Q.M. Hoang, V.H. Bui, W. Su (2026). "Grid-Mode-Aware AI Data Center Power Smoothing via Bayesian-Optimized Hybrid Energy Storage System," _2027 IEEE Texas Power and Energy Conference (TPEC)_ (Submitted). [arXiv:2611.03436](https://doi.org/10.48550/arXiv.2611.03436)

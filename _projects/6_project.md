@@ -32,4 +32,5 @@ Supported by the UM-Dearborn EXP+ Independent Research Grant, **SymbolicPhasor**
 ---
 
 **Publication:**
-- **S. Mohammadi**, W. Su (2026). "SymbolicPhasor: Power System Phasor Estimation via Deep Symbolic Regression," *58th North American Power Symposium (NAPS)* (Accepted). [arXiv:2608.08552](https://doi.org/10.48550/arXiv.2608.08552)
+
+- **S. Mohammadi**, W. Su (2026). "SymbolicPhasor: Power System Phasor Estimation via Deep Symbolic Regression," _58th North American Power Symposium (NAPS)_ (Accepted). [arXiv:2608.08552](https://doi.org/10.48550/arXiv.2608.08552)
