@@ -24,6 +24,11 @@ announcements:
 latest_posts:
   enabled: false # hides the default blog posts section
 ---
+<style>
+  .profile {
+    width: 45% !important;
+  }
+</style>
 
 Hi! I am a Ph.D. Candidate in Electrical and Computer Engineering at the University of Michigan–Dearborn, advised by [Prof. Wencong Su](https://umdearborn.edu/users/wencong). My doctoral dissertation focuses on *Machine Learning Applications for Optimizing Power Systems Operation*.
 
