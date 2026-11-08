@@ -2,15 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Sina Mohammadi
+title: blank # leave blank to automatically use your first and last name
 first_name: Sina
-middle_name: ""
+middle_name: 
 last_name: Mohammadi
-email: sinamo@umich.edu
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  The best way to reach me is by email.
+description: >
+  Academic portfolio of Sina Mohammadi, Ph.D. Candidate in Electrical & Computer Engineering at the University of Michigan-Dearborn.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -20,8 +19,8 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
-url: https://sinamo.github.io # the base hostname & protocol for your site
-baseurl:""
+url: https://sinamo93.github.io
+baseurl: /sinamo # MUST be /sinamo since your repo is named "sinamo"
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -357,8 +356,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Mohammadi]
+  first_name: [Sina, S.]
 
   style: apa
   locale: en
