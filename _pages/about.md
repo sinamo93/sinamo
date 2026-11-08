@@ -10,7 +10,7 @@ profile:
   image_circular: false
   more_info: >
     <p>Dept. of Electrical & Computer Engineering</p>
-    <p>Dearborn Heights, MI, USA</p>
+    <p>Dearborn, MI, USA</p>
     <p>Email: sinamo@umich.edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
