@@ -26,7 +26,7 @@ latest_posts:
 ---
 <style>
   .profile {
-    width: 45% !important;
+    width: 50% !important;
   }
 </style>
 
