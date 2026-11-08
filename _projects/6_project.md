@@ -2,7 +2,7 @@
 layout: page
 title: SymbolicPhasor
 description: Power system phasor estimation via Deep Symbolic Regression (NAPS, 2026).
-img: assets/img/projects/IMG_7788.JPG
+img: assets/img/projects/IMG_7798.JPG
 importance: 6
 category: conference
 ---

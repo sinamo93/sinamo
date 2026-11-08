@@ -2,7 +2,7 @@
 layout: page
 title: Grid Integration of AI Data Centers
 description: Hierarchical energy storage solutions for smoothing stochastic AI data center power profiles (Advances in Applied Energy, 2026).
-img:
+img: assets/img/projects/IMG_7796.JPEG
 importance: 3
 category: journal
 ---

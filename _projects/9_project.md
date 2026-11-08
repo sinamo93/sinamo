@@ -2,7 +2,7 @@
 layout: page
 title: LLMs for Economic Dispatch
 description: Exploring Large Language Models for solving power system economic dispatch (IEEE ECCE, 2025).
-img: assets/img/projects/IMG_5817.JPG
+img: assets/img/projects/IMG_5827.JPG
 importance: 9
 category: conference
 ---

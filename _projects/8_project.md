@@ -2,7 +2,7 @@
 layout: page
 title: Voltage-Based Topology Recovery
 description: Efficient distribution grid topology identification from voltage measurements (NAPS, 2025).
-img: assets/img/projects/IMG_6287.jpg
+img: assets/img/projects/IMG_6307.JPG
 importance: 8
 category: conference
 ---
