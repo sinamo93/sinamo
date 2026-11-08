@@ -30,7 +30,7 @@ latest_posts:
   }
 </style>
 
-Hi! I am a Ph.D. Candidate in Electrical and Computer Engineering at the University of Michigan–Dearborn, advised by [Prof. Wencong Su]([https://umdearborn.edu/users/wencong](https://www.suwencong.com/)). My doctoral dissertation focuses on *Machine Learning Applications for Optimizing Power Systems Operation*.
+Hi! I am a Ph.D. Candidate in Electrical and Computer Engineering at the University of Michigan–Dearborn, advised by [Prof. Wencong Su](https://www.suwencong.com/). My doctoral dissertation focuses on *Machine Learning Applications for Optimizing Power Systems Operation*.
 
 Prior to joining UM-Dearborn in 2023, I earned my M.Sc. in Electrical Engineering from the University of Zanjan (2019) and my B.Sc. in Electrical Engineering from the University of Kurdistan (2016).
 
