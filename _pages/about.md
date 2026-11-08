@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate · <a href='https://umdearborn.edu/'>University of Mic
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.JPEG
   image_circular: false
   more_info: >
     <p>Dept. of Electrical & Computer Engineering</p>
