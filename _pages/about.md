@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # displays the news timeline on your homepage
   scrollable: true # adds a vertical scroll if the list grows long
-  limit: 6 # shows your 6 recent announcements
+  limit: 5 # shows your 6 recent announcements
 
 latest_posts:
   enabled: false # hides the default blog posts section
