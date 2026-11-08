@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Courses instructed and teaching assistantships.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 #### **University of Michigan–Dearborn**
