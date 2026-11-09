@@ -4,9 +4,8 @@
     "label": "Ph.D. Candidate in Electrical & Computer Engineering",
     "email": "sinamo[at]umich[dot]edu",
     "url": "https://sinamo93.github.io/",
-    "summary": "Ph.D. candidate at University of Michigan-Dearborn specializing in power systems engineering, AC Optimal Power Flow (ACOPF), physics-informed neural networks, and distribution network state estimation.",
     "location": {
-      "city": "Dearborn Heights",
+      "city": "Dearborn",
       "countryCode": "US",
       "region": "Michigan"
     }
@@ -93,7 +92,7 @@
     },
     {
       "language": "English",
-      "fluency": "Professional Working"
+      "fluency": "Fluent"
     }
   ]
 }

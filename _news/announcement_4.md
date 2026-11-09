@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our preprint on [Transformer-guided Variable Projection for Phasor and Fault-Time Estimation Under DDC Offset](https://doi.org/10.48550/arXiv.2611.03416) is now available on arXiv and submitted to _IEEE PESGM 2027_.
+Our preprint on [Transformer-guided Variable Projection for Phasor and Fault-Time Estimation Under DDC Offset](https://doi.org/10.48550/arXiv.2611.03416) is now available on arXiv and submitted to _IEEE PESGM 2027!_

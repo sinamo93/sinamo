@@ -50,23 +50,6 @@ latest_posts:
     color: #ffcb05;
   }
 
-  .journal-review-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.7rem 0.85rem;
-    margin: 0.8rem 0 1.25rem;
-  }
-
-  .journal-review-list span {
-    border: 1px solid rgba(128, 128, 128, 0.3);
-    border-left: 4px solid var(--global-theme-color);
-    border-radius: 0.35rem;
-    flex: 1 1 260px;
-    font-style: italic;
-    line-height: 1.4;
-    padding: 0.5rem 0.75rem;
-  }
-
   @media (max-width: 767.98px) {
     .profile {
       margin-top: 0 !important;
@@ -77,6 +60,7 @@ latest_posts:
       padding-right: 0;
     }
   }
+
 </style>
 
 <script>
@@ -97,17 +81,3 @@ Prior to joining UM-Dearborn in 2023, I earned my M.Sc. in Electrical Engineerin
 - **Power System Optimization & AI:** Physics-informed neural networks (PINNs) and surrogate modeling for Optimal Power Flow (OPF), Large Language Models (LLMs) for economic dispatch, and hybrid energy storage coordination for AI data centers.
 - **Distribution Grid State & Topology Estimation:** Distance-Aware Mutual Information (DAMI) and hierarchical clustering of smart meter voltage measurements for low-voltage distribution network topology recovery.
 - **Power System Protection & Phasor Estimation:** Sub-cycle neural network and deep symbolic regression for fault current phasor estimation under decaying DC offsets, and pilot-based protection for meshed microgrids.
-
-**Academic Service:**
-
-I am a Graduate Student Member of IEEE and serve as an active peer reviewer for:
-
-<div class="journal-review-list">
-  <span>IEEE Transactions on Smart Grid</span>
-  <span>IEEE Transactions on Power Systems</span>
-  <span>IEEE Power Engineering Letters</span>
-  <span>IEEE Transactions on Industrial Informatics</span>
-  <span>IEEE Transactions on Industrial Electronics</span>
-  <span>IEEE Transactions on Control of Network Systems</span>
-  <span>International Journal of Electrical Power & Energy Systems</span>
-</div>

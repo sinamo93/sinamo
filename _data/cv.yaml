@@ -12,9 +12,9 @@
     - name: Phone
       value: +1 (313) 467-2214
     - name: Location
-      value: Dearborn Heights, MI, USA
+      value: Dearborn, MI, USA
     - name: Languages
-      value: Kurdish (Native), Farsi (Bilingual), English (Professional Working)
+      value: Kurdish (Native), Farsi (Bilingual), English (Fluent)
 
 - title: Education
   type: time_table

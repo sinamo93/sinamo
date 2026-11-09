@@ -23,12 +23,6 @@ Supported by the UM-Dearborn EXP+ Independent Research Grant, **SymbolicPhasor**
   </div>
 </div>
 
-<div class="row mt-4">
-  <div class="col-sm-12 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/IMG_7796.JPEG" title="NAPS Presentation - Photo 3" class="img-fluid rounded z-depth-1 w-100" %}
-  </div>
-</div>
-
 ---
 
 **Publication:**

@@ -15,6 +15,23 @@ nav_order: 5
     margin: 0.65rem 0 0;
     text-align: center;
   }
+
+  .teaching-photo-grid {
+    display: grid;
+    gap: 1.25rem;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    margin-top: 1.5rem;
+  }
+
+  .teaching-photo-grid figure {
+    margin: 0;
+  }
+
+  @media (max-width: 575.98px) {
+    .teaching-photo-grid {
+      grid-template-columns: 1fr;
+    }
+  }
 </style>
 
 #### **University of Michigan–Dearborn**
@@ -24,29 +41,20 @@ nav_order: 5
 - **Courses:** ECE 305, ECE 311, ECE 385, ECE 485, ECE 5831
 - **Responsibilities:** Teaching laboratory sessions for ECE 305 and ECE 311; grading homework, exams, and course projects.
 
-<div class="row mt-4">
-  <div class="col-sm-12 mt-3 mt-md-0">
+<div class="teaching-photo-grid">
+  <div class="teaching-photo-item">
     {% include figure.liquid loading="eager" path="assets/img/teaching/IMG_3417.jpg" title="ECE 311 — Electronic Circuits" class="img-fluid rounded z-depth-1 w-100" %}
     <p class="teaching-photo-caption">ECE 311 — Electronic Circuits</p>
   </div>
-</div>
-
-<div class="row mt-4">
-  <div class="col-sm-12 mt-3 mt-md-0">
+  <div class="teaching-photo-item">
     {% include figure.liquid loading="eager" path="assets/img/teaching/IMG_6427.jpg" title="ECE 305 — Introduction to Electrical Engineering" class="img-fluid rounded z-depth-1 w-100" %}
     <p class="teaching-photo-caption">ECE 305 — Introduction to Electrical Engineering</p>
   </div>
-</div>
-
-<div class="row mt-4">
-  <div class="col-sm-12 mt-3 mt-md-0">
+  <div class="teaching-photo-item">
     {% include figure.liquid loading="eager" path="assets/img/teaching/IMG_6429.jpg" title="ECE 305 — Introduction to Electrical Engineering" class="img-fluid rounded z-depth-1 w-100" %}
     <p class="teaching-photo-caption">ECE 305 — Introduction to Electrical Engineering</p>
   </div>
-</div>
-
-<div class="row mt-4">
-  <div class="col-sm-12 mt-3 mt-md-0">
+  <div class="teaching-photo-item">
     {% include figure.liquid loading="eager" path="assets/img/teaching/IMG_6755.jpg" title="ECE 305 — Introduction to Electrical Engineering" class="img-fluid rounded z-depth-1 w-100" %}
     <p class="teaching-photo-caption">ECE 305 — Introduction to Electrical Engineering</p>
   </div>
