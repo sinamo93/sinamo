@@ -4,7 +4,8 @@ title: Modulation-Assisted Phasor Estimation
 description: Accurate fault current phasor estimation under decaying DC offsets (IEEE TPWRD, 2026).
 img:
 importance: 1
-category: journal
+category: Phasor Estimation in Power Systems
+published: false
 ---
 
 Fault currents in power transmission and distribution lines frequently contain decaying DC (DDC) offsets that severely corrupt conventional Discrete Fourier Transform (DFT) phasor estimation in digital protective relays.

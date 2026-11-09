@@ -4,7 +4,7 @@ title: LLMs for Economic Dispatch
 description: Exploring Large Language Models for solving power system economic dispatch (IEEE ECCE, 2025).
 img: assets/img/projects/IMG_5827.JPG
 importance: 9
-category: conference
+category: AI for Power System Optimization
 ---
 
 This project investigates the reasoning capabilities of Large Language Models (LLMs) for power system operational optimization, formulating and solving constrained Economic Dispatch (ED) problems to minimize generation cost while satisfying system load balance and generator limits.

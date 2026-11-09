@@ -4,7 +4,7 @@ title: Voltage-Based Topology Recovery
 description: Efficient distribution grid topology identification from voltage measurements (NAPS, 2025).
 img: assets/img/projects/IMG_6307.JPG
 importance: 8
-category: conference
+category: Topology Recovery of Distribution Networks
 ---
 
 This project develops a computationally efficient, data-driven algorithm to identify active feeder topologies in distribution networks using purely smart meter voltage magnitude measurements without requiring complete phase angle observability.

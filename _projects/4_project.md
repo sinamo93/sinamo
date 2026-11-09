@@ -2,9 +2,9 @@
 layout: page
 title: Surrogate Modeling & PINNs for OPF
 description: Machine learning and physics-informed neural network surrogates for Optimal Power Flow (Sustainability, 2024).
-img:
+img: assets/img/projects/surrogate-models-overview.png
 importance: 4
-category: journal
+category: AI for Power System Optimization
 ---
 
 Solving AC and DC Optimal Power Flow (OPF) repeatedly in real-time grid operations is computationally bottlenecked by non-convex physical constraints and high renewable penetration.

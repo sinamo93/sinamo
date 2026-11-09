@@ -10,23 +10,29 @@ nav_order: 6
 <h2 class="photo-gallery-title">Research Lab Moments</h2>
 
 <p class="photo-gallery-intro">
-  Group moments from our research lab’s participation in conferences, workshops, research events, and community gatherings.
+  Group moments from our research lab’s participation in conferences, workshops, research events, and gatherings.
 </p>
 
 <div class="research-photo-gallery">
   {% for photo_number in (1..15) %}
-    {% capture padded_number %}{% if photo_number < 10 %}0{% endif %}{{ photo_number }}{% endcapture %}
-    <figure class="research-photo-item">
-      <img
-        src="{{ '/assets/img/photos/research-lab-' | append: padded_number | append: '.jpg' | relative_url }}"
-        alt="Power Engineering Research Lab group at a conference, workshop, event, or gathering"
-        loading="lazy"
-      >
-    </figure>
+    {% unless photo_number == 3 %}
+      {% capture padded_number %}{% if photo_number < 10 %}0{% endif %}{{ photo_number }}{% endcapture %}
+      <figure class="research-photo-item">
+        <img
+          src="{{ '/assets/img/photos/research-lab-' | append: padded_number | append: '.jpg' | relative_url }}"
+          alt="Power Engineering Research Lab group at a conference, workshop, event, or gathering"
+          loading="lazy"
+        >
+      </figure>
+    {% endunless %}
   {% endfor %}
 </div>
 
 <style>
+  .post-header {
+    display: none;
+  }
+
   .photo-gallery-title {
     margin-bottom: 0.35rem;
   }

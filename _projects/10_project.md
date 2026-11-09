@@ -4,7 +4,7 @@ title: Low-Voltage Grid Topology Recovery
 description: Hierarchical clustering of smart meter data for LV distribution networks (IEEE PESGM, 2025).
 img: assets/img/projects/IMG_5226.JPG
 importance: 10
-category: conference
+category: Topology Recovery of Distribution Networks
 ---
 
 Low-voltage (LV) secondary distribution grids rarely have real-time switch monitors or accurate phase-connectivity maps. This work proposes a hierarchical clustering approach using incremental voltage measurements from smart meters to reconstruct tree topologies in LV distribution networks with high accuracy.

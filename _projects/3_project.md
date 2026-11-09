@@ -2,9 +2,9 @@
 layout: page
 title: Grid Integration of AI Data Centers
 description: Hierarchical energy storage solutions for smoothing stochastic AI data center power profiles (Advances in Applied Energy, 2026).
-img: assets/img/projects/IMG_7796.JPEG
+img: assets/img/projects/ai-data-center-ess-overview.jpg
 importance: 3
-category: journal
+category: Energy Storage for AI Data Centers
 ---
 
 The rapid expansion of Artificial Intelligence (AI) computing infrastructure imposes massive, highly dynamic, sub-second load fluctuations on utility grids.
@@ -17,7 +17,7 @@ This work provides a comprehensive framework and critical evaluation of multi-la
 
 <div class="row mt-4">
   <div class="col-sm-12 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/IMG_7796.JPEG" title="NAPS Poster Presentation" class="img-fluid rounded z-depth-1 w-100" %}
-    <div class="caption">The paper is presented as a poster at the Michigan Day event after the NAPS 2026 conference at Michigan Tech.</div>
+    {% include figure.liquid loading="eager" path="assets/img/projects/ai-data-center-ess-overview.jpg" title="ESS architecture for AI data centers" class="img-fluid rounded z-depth-1 w-100" %}
+    <div class="caption">The flowchart shows the overall hierarchical energy storage placement in an AI data center, spanning grid, power-smoothing, UPS, power-shelf, server-shelf, and other DC-load interfaces.</div>
   </div>
 </div>

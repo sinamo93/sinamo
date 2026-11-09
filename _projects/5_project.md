@@ -2,9 +2,9 @@
 layout: page
 title: Bayesian-Optimized HESS for AI Data Centers
 description: Grid-mode-aware AI data center power smoothing via Hybrid Energy Storage Systems (IEEE TPEC, 2026).
-img:
+img: assets/img/projects/bayesian-config-bo.png
 importance: 5
-category: conference
+category: Energy Storage for AI Data Centers
 ---
 
 AI training and inference workloads generate steep power ramps that degrade battery lifespan and threaten local grid stability.

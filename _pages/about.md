@@ -72,7 +72,7 @@ latest_posts:
   });
 </script>
 
-Hi! I am **Sina Mohammadi**, a Ph.D. Candidate in Electrical and Computer Engineering at the **University of Michigan–Dearborn**, advised by [Wencong Su](https://www.suwencong.com/). My doctoral dissertation focuses on _Machine Learning Applications for Optimizing Power Systems Operation_.
+Hi! I am **Sina Mohammadi**, a Ph.D. Candidate in Electrical and Computer Engineering at the **University of Michigan–Dearborn**, advised by [Prof. Wencong Su](https://www.suwencong.com/). My doctoral dissertation focuses on _Machine Learning Applications for Optimizing Power Systems Operation_.
 
 Prior to joining UM-Dearborn in 2023, I earned my M.Sc. in Electrical Engineering from the University of Zanjan (2019) and my B.Sc. in Electrical Engineering from the University of Kurdistan (2016).
 

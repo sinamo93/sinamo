@@ -2,9 +2,9 @@
 layout: page
 title: DAMI Distribution Topology Recovery
 description: Topology recovery in distribution networks using Distance-Aware Mutual Information (Electric Power Systems Research, 2026).
-img:
+img: assets/img/projects/dami-flowchart.jpg
 importance: 2
-category: journal
+category: Topology Recovery of Distribution Networks
 ---
 
 Accurate topology knowledge is essential for distribution system state estimation, volt/VAR control, and fault restoration, yet low- and medium-voltage grid reconfigurations often go unrecorded.

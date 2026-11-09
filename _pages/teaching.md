@@ -8,6 +8,12 @@ nav_order: 5
 ---
 
 <style>
+  .post-header {
+    display: none;
+  }
+</style>
+
+<style>
   .teaching-photo-caption {
     color: var(--global-text-color-light);
     font-size: 0.95rem;

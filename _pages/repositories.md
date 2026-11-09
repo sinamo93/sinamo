@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: Repositories
 description: Open-source code, power system simulation models, and machine learning implementations.
-nav: true
+nav: false
 nav_order: 4
 ---
 

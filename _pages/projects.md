@@ -5,11 +5,25 @@ permalink: /projects/
 description: First-author doctoral research projects in power systems optimization, protection, and machine learning.
 nav: true
 nav_order: 3
-display_categories: [journal, conference]
+display_categories:
+  - AI for Power System Optimization
+  - Topology Recovery of Distribution Networks
+  - Phasor Estimation in Power Systems
+  - Energy Storage for AI Data Centers
 horizontal: false
 ---
 
 <!-- pages/projects.md -->
+<style>
+  .post-header {
+    display: none;
+  }
+
+  .projects h2.category {
+    color: #00274c;
+  }
+</style>
+
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
