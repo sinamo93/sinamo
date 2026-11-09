@@ -5,7 +5,7 @@ description: Power system phasor estimation via Deep Symbolic Regression (NAPS, 
 img: assets/img/projects/IMG_7798.JPG
 importance: 6
 category: Phasor Estimation in Power Systems
-published: false
+published: true
 ---
 
 While black-box neural networks can estimate fault current phasors rapidly, protective relays require interpretable, computationally lightweight mathematical expressions for real-time hardware deployment.
