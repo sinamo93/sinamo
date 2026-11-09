@@ -5,7 +5,6 @@ description: Transformer-guided variable projection for phasor and fault-time es
 img: assets/img/projects/transformer-guided-architecture-1.png
 importance: 12
 category: Phasor Estimation in Power Systems
-published: false
 ---
 
 This project develops a transformer-guided variable-projection framework for jointly estimating power-system phasors and fault inception time under decaying DC offsets.

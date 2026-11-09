@@ -5,7 +5,6 @@ description: Accurate fault current phasor estimation under decaying DC offsets 
 img:
 importance: 1
 category: Phasor Estimation in Power Systems
-published: false
 ---
 
 Fault currents in power transmission and distribution lines frequently contain decaying DC (DDC) offsets that severely corrupt conventional Discrete Fourier Transform (DFT) phasor estimation in digital protective relays.

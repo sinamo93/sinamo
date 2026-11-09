@@ -5,7 +5,6 @@ description: Adaptive hybrid energy storage control for mitigating AI data cente
 img: assets/img/projects/adaptive-grid-mode-aware-1.png
 importance: 13
 category: Energy Storage for AI Data Centers
-published: false
 ---
 
 This project develops an adaptive grid-mode-aware control strategy for hybrid energy storage systems to mitigate rapid AI data center power oscillations while responding appropriately to changing grid operating conditions.
