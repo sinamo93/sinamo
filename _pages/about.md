@@ -78,6 +78,7 @@ Prior to joining UM-Dearborn in 2023, I earned my M.Sc. in Electrical Engineerin
 
 **Research Experience & Focus:**
 
-- **Power System Optimization & AI:** Physics-informed neural networks (PINNs) and surrogate modeling for Optimal Power Flow (OPF), Large Language Models (LLMs) for economic dispatch, and hybrid energy storage coordination for AI data centers.
-- **Distribution Grid State & Topology Estimation:** Distance-Aware Mutual Information (DAMI) and hierarchical clustering of smart meter voltage measurements for low-voltage distribution network topology recovery.
-- **Power System Protection & Phasor Estimation:** Sub-cycle neural network and deep symbolic regression for fault current phasor estimation under decaying DC offsets, and pilot-based protection for meshed microgrids.
+- **AI for Power System Optimization:** Physics-informed neural networks (PINNs) and surrogate modeling for Optimal Power Flow (OPF), and Large Language Models (LLMs) for economic dispatch.
+- **Topology Recovery of Distribution Networks:** Distance-Aware Mutual Information (DAMI), voltage-based topology identification, and smart-meter-based recovery of low-voltage distribution grids.
+- **Phasor Estimation in Power Systems:** Modulation-assisted, transformer-guided, sub-cycle neural, and deep symbolic regression methods for phasor estimation under decaying DC offsets and fault transients.
+- **Energy Storage for AI Data Centers:** Hierarchical energy storage placement, Bayesian-optimized hybrid energy storage coordination, and adaptive grid-mode-aware control for AI data center power smoothing and oscillation mitigation.
