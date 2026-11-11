@@ -8,10 +8,8 @@ category: Phasor Estimation in Power Systems
 published: true
 ---
 
-Fault currents in power transmission and distribution lines frequently contain decaying DC (DDC) offsets that severely corrupt conventional Discrete Fourier Transform (DFT) phasor estimation in digital protective relays.
-
-This project develops an accurate modulation-assisted method to isolate and suppress decaying DC components without requiring prior knowledge of the DC time constant, enabling fast and reliable phasor estimation during transient fault conditions.
+Decaying DC (DDC) offsets can severely distort current phasor estimates immediately after power-grid faults, creating oscillatory magnitude errors that may impair distance-relay operation. This project develops a modulation-assisted technique that combines a high-frequency carrier with consecutive sliding Fourier projections to isolate DDC components while rejecting higher-order harmonics. A direct algebraic solution based on three sequential projections estimates and removes single or multiple DDC modes, enabling fast and accurate transient phasor estimation.
 
 **Publication:**
 
-- **S. Mohammadi**, W. Su (2026). "An Accurate Modulation-Assisted Method for Phasor Estimation Under Decaying DC Offsets," _IEEE Transactions on Power Delivery_ (Under Review).
+- **S. Mohammadi**, A. Shukla, J. Hong, W. Su (2026). "An Accurate Modulation-Assisted Method for Phasor Estimation Under Decaying DC Offsets," _IEEE Transactions on Power Delivery_ (Under Review). [arXiv:2611.13558](https://arxiv.org/abs/2611.13558)

@@ -22,6 +22,7 @@ horizontal: false
   .projects h2.category {
     color: #00274c;
   }
+
 </style>
 
 <div class="projects">
