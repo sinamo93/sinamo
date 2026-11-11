@@ -1,0 +1,346 @@
+\documentclass[a4paper,8pt]{article}
+
+% Use an Arial-like sans-serif font with PDFLaTeX.
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[scaled]{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage{multicol}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+
+
+
+
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.530in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.45in}
+\addtolength{\textheight}{1in}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemWithoutTitle}[1]{
+  \item\small{
+    {\vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{#4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-3pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-----------------------------
+%%%%%%  CV STARTS HERE  %%%%%%
+
+\begin{document}
+\small
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{{\LARGE Sina Mohammadi}} \\
+  %\textbf{{\large Potential Supervisor: Dr. Wencong Su}} \\
+  PhD Candidate, Electrical \& Computer Engineering\\
+  University of Michigan-Dearborn\\
+  Email: \href{mailto:sinamo@umich.edu}{sinamo@umich.edu} | Phone:~+1 (313) 4672214\\
+  \href{https://ir.linkedin.com/in/sina-mohammadi-61908567}{LinkedIn} | \href{https://scholar.google.com/citations?user=4KZecEYAAAAJ&hl=en}{Google Scholar} | \href{https://orcid.org/0000-0002-5527-9534}{ORCID}\\
+  Address: Dearborn, MI, USA
+
+\end{tabular*}
+
+\footnotesize
+% \section{Summary}
+% Researcher in AI-driven Power Systems specializing in distribution-network topology estimation, machine-learning-based OPF, and microgrid protection. Strong publication record (5 Q1 journals, multiple IEEE conferences) and extensive teaching experience. Passionate about applying AI, optimization, and data-driven control to power and energy systems.
+
+%-----------EDUCATION-----------------
+\section{~~Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Ph.D., Electrical and Computer Engineering}{Michigan, USA}
+      {University of Michigan-Dearborn;  GPA: 3.88/4}{2023-present}\\
+      {\scriptsize \textit{ \footnotesize{\newline{}\textbf{Dissertation Title:} Machine Learning Applications for Optimizing Power Systems Operation}}}
+      {\scriptsize \textit{ \footnotesize{\newline{}\textbf{Supervisor:} Wencong Su, Ph.D.}}}
+      
+    \resumeSubheading
+      {M.Sc., Electrical Engineering}{Zanjan, Iran}
+      {University of Zanjan;  GPA: 3.42/4}{2016-2019}\\
+      {\scriptsize \textit{ \footnotesize{\newline{}\textbf{Thesis Title:} An Optimal Strategy for Protection of Inverter-Interfaced Microgrids in Different Working Modes}}}
+      {\scriptsize \textit{ \footnotesize{\newline{}\textbf{Thesis Supervisors:} Mansour Ojaghi, Ph.D., Abolfazl Jalilvand, Ph.D.}}}
+       {\scriptsize \textit{ \footnotesize{\newline{}\textbf{Thesis Advisor:} Qobad Shafiee, Ph.D.}}}
+       {\scriptsize \textit{ \footnotesize{\newline{}\textbf{Thesis Grade:} 19.5/20}}}
+      \resumeSubheading
+      {B.Sc., Electrical Engineering}{Sanandaj, Iran}
+      {University of Kurdistan;  GPA: 3.19/4}{2012-2016}\\
+      {\scriptsize \textit{ \footnotesize{\newline{}\textbf{Thesis Title:} Analysis, Modeling and Comparison of Different Types of Power Converters in Switched Reluctance Motor for Reducing the Torque Ripples}}}
+      {\scriptsize \textit{ \footnotesize{\newline{}\textbf{Thesis Supervisor:} Rahmatollah Mirzaei, Ph.D.}}}
+    \resumeSubHeadingListEnd
+
+\section{~~Research Interests}
+~~Machine Learning for Solving Optimal Power Flow\\
+~~Large Language Models Applications in Power Systems\\ 
+~~State Estimation in Power Systems\\
+~~Power System Protection\\
+
+
+
+%~~Renewable Energy Resources\\
+%~~Smart Methods in Power System Optimization\\
+%~~AC/DC Smart/Micro Grid Protection/Control Schemes\\
+%~~Power Systems based on Power Electronics Converters\\
+
+
+
+
+\footnotesize
+
+\section{~~Publications}
+\begin{itemize}
+    \item
+    \textbf{Journal Papers}
+    \begin{enumerate}
+    % \item
+	   %  G. S. Chawda, \textbf{S. Mohammadi}, G. Hollweg , S. Chaturvedi, V. Hai-Bui, W. Su,  M. Wang (2025) “Recent Trends in DC-DC and DC-AC Converters and Their Control Techniques for Renewable Energy Systems: A Critical Review,” to be submitted to \textit{Energies}.
+    \item
+	    \textbf{S. Mohammadi}, A. Shukla, J. Hong, W. Su (2026) “An Accurate Modulation-Assisted Method for Phasor Estimation Under Decaying DC Offsets,” \textit{IEEE Transactions on Power Delivery}, Under Review.\\
+        \href{https://arxiv.org/abs/2611.13558}{arXiv: 2611.13558}
+
+    % \item
+	   %  \textbf{S. Mohammadi}, W. Su (2026) “DiffOPF: A Guided Diffusion Model for Solving AC Optimal Power Flow,” \textit{IEEE Transactions on Power Systems}, Under Review.
+        
+    \item
+	    \textbf{S. Mohammadi}, V. Hai-Bui, W. Su (2026) “Topology Recovery in Distribution Networks Using Distance-Aware Mutual Information (DAMI) Method,” \textit{Electric Power System Research}, vol. 265, p. 114307.
+
+        [Q1, IF= 4.3]\\
+        \href{https://doi.org/10.1016/j.epsr.2026.114307}{DOI: 10.1016/j.epsr.2026.114307}
+
+    \item
+	    \textbf{S. Mohammadi}, W. Wang, M. Wada, R. Haghighi, A. Hassan, H. Liu, A. Bhatnagar, A. Chen, W. Su (2026) “Grid Integration of AI Data Centers: A Critical Review of Energy Storage Solutions,” \textit{Advances in Applied Energy}, 100291.
+        
+        [Q1, IF= 18.3]\\
+        \href{https://doi.org/10.1016/j.adapen.2026.100291}{DOI: 10.1016/j.adapen.2026.100291}
+
+    \item
+	    V. Hai-Bui, \textbf{S. Mohammadi}, S. Das, A. Hussain, G. Hollweg, W. Su (2025) “A Critical Review of Safe Reinforcement Learning Strategies in Power and Energy Systems,” \textit{Engineering Applications of Artificial Intelligence}, , vol. 143, p. 110091.
+
+        [Q1, IF=7.5]\\ \href{https://doi.org/10.1016/j.engappai.2025.110091}{DOI: 10.1016/j.engappai.2025.110091}
+     \item
+	    \textbf{S. Mohammadi}, V. Hai-Bui, W. Su, B. Wang (2024) “Surrogate Modeling for Solving OPF: A Review,” \textit{Sustainability}, vol. 16, no. 22, p. 9851.
+
+        [Q1, IF=3.3]\\ \href{https://doi.org/10.3390/su16229851}{DOI: 10.3390/su16229851}
+	    \item
+	    \textbf{S. Mohammadi}, A. Mahmoudi, S. Kahourzade, A. Yazdani, GM Shafiullah (2022) “Decaying DC Offset Current Mitigation in Phasor Estimation Applications: A Review,” \textit{Energies}, vol. 15, no. 14, p. 5260.
+	    
+	    [Q1, IF=3]\\ \href{https://doi.org/10.3390/en15145260}{DOI: 10.3390/en15145260}
+	    \item 
+	    \textbf{S. Mohammadi}, N.Rezaie, A. Mahmoudi (2022) “A Novel Analytical Method for DC offset Mitigation Enhancing DFT Phasor Estimation,” \textit{Electric Power Systems Research}, vol. 209, p. 108036. 
+	    
+	    [Q1, IF=3.3]\\
+	    \href{https://doi.org/10.1016/j.epsr.2022.108036}{DOI: 10.1016/j.epsr.2022.108036}
+	    \item
+	    \textbf{S. Mohammadi}, M. Ojaghi, A. Jalilvand, Q. Shafiee (2021). “A Pilot-based Unit Protection Scheme for Meshed Microgrids using Apparent Resistance Estimation,” \textit{International Journal of Electrical Power \& Energy Systems}, vol. 126, p. 106564. 
+	    
+	    [Q1, IF=5]\\
+	    \href{https://doi.org/10.1016/j.ijepes.2020.106564}{DOI: 10.1016/j.ijepes.2020.106564}
+	    \end{enumerate}
+	    \item
+	     \textbf{Conference Papers}
+	     \begin{enumerate}
+
+         \item
+         Q.M Hoang, \textbf{S. Mohammadi}, P. L. Nguyen, W. Su, V.H. Bui (2026). “Adaptive Grid-Mode-Aware Hybrid Energy Storage Control for AI Data Center Oscillation Mitigation”, Submitted, 2027 IEEE Power \& Energy Society General Meeting (PESGM).\\
+         \href{https://doi.org/10.48550/arXiv.2611.05939}{DOI: 10.48550/arXiv.2611.05939}
+
+
+         \item
+         M.C. Wada, \textbf{S. Mohammadi}, V.H. Bui, W. Su (2026). “Transformer-guided Variable Projection for Phasor and Fault-Time Estimation Under DDC Offset”, Submitted, 2027 IEEE Power \& Energy Society General Meeting (PESGM).\\
+         \href{https://doi.org/10.48550/arXiv.2611.03416}{DOI: 10.48550/arXiv.2611.03416}
+
+         \item
+         \textbf{S. Mohammadi}, Q.M Hoang, V.H. Bui, W. Su (2026). “Grid-Mode-Aware AI Data Center Power Smoothing via Bayesian-Optimized Hybrid Energy Storage System", 2027 IEEE Texas Power and Energy Conference (TPEC), Submitted.\\
+        \href{https://doi.org/10.48550/arXiv.2611.03436}{DOI: 10.48550/arXiv.2611.03436}
+
+        \item
+         \textbf{S. Mohammadi}, W. Su (2026). “SymbolicPhasor: Power System Phasor Estimation via Deep Symbolic Regression”, 58th North American Power Symposium (NAPS), Accepted.\\
+         \href{https://doi.org/10.48550/arXiv.2608.08552}{DOI: 10.48550/arXiv.2608.08552}
+
+         \item
+         \textbf{S. Mohammadi}, W. Wang, M. Wada, R. Haghighi, A. Hassan, H. Liu, A. Bhatnagar, A. Chen, W. Su (2026) “Grid Integration of AI Data Centers: A Brief Review of Energy Storage Systems Solutions,” 2nd International Workshop on AI for Critical National Infrastructure, Paphos, Cyprus, May 26, 2026.
+         
+        \item
+         \textbf{S. Mohammadi}, V. Bui, W. Su (2025). “An Efficient Voltage-Based Topology Recovery Method for Distribution Networks”, 57th North American Power Symposium (NAPS), Hartford, Connecticut, USA, October 26-28, 2025.\\
+        \href{https://doi.org/10.1109/NAPS66256.2025.11272327}{DOI: 10.1109/NAPS66256.2025.11272327}
+
+        \item 
+        \textbf{S. Mohammadi}, A. Hassan, R. Haghighi, V. Bui, W. Su (2025). “Large Language Models for Solving Economic Dispatch”, 2025 IEEE Energy Conversion Congress and Exposition (ECCE), Philadelphia, Pennsylvania, USA, October 19-23, 2025.\\
+        \href{https://doi.org/10.1109/ECCE58356.2025.11259643}{DOI: 10.1109/ECCE58356.2025.11259643}
+
+        \item 
+	    \textbf{S. Mohammadi}, V. Bui, W. Su (2025). “A Novel Topology Recovery Method for Low Voltage Distribution Networks”, 2025 IEEE Power \& Energy Society General Meeting (GM), Austin, TX, USA, July 27–31, 2025.\\
+        \href{https://doi.org/10.1109/PESGM52009.2025.11225097}{DOI: 10.1109/PESGM52009.2025.11225097}
+         
+      \item
+	    \textbf{S. Mohammadi}, R. Haghighi, A. Hassan, V. Bui, M. Wang, W. Su (2024). “Fast Accurate Phasor Estimation in Less than One Cycle using Neural Networks” 2024 IEEE 18th International Conference on Control \& Automation (ICCA), Reykjavík, Iceland.
+        
+    \href{https://doi.org/10.1109/ICCA62789.2024.10591924}{DOI: 10.1109/ICCA62789.2024.10591924}
+
+     \item
+	    V. Bui, \textbf{S. Mohammadi}, W. Su (2024). “Optimal Operation of Microgrid Through Loss-Guided Neural Network-Based Approach” 5th Technology Innovation Management and Engineering Science International Conference (TIMES-iCON2024) in Bangkok, Thailand.
+
+        \href{https://doi.org/10.1109/TIMES-iCON61890.2024.10630727}{DOI: 10.1109/TIMES-iCON61890.2024.1063072}
+	
+	         \item
+	     V. Tahsini, M. Ojaghi, K. Mazlumi, \textbf{S. Mohammadi} (2019). “A Novel Directional Relaying Scheme Using Superimposed Impedance Approach.” Paper presented in 2019 International Conference on Protection and Automation of Power System (IPAPS2019), Sharif University of Technology, Tehran, Iran.\\
+	    \href{https://doi.org/10.1109/IPAPS.2019.8642057}{DOI: 10.1109/IPAPS.2019.8642057}
+	    \item
+	    \textbf{S. Mohammadi}, M. Ojaghi, A. Jalilvand, Q. Shafiee (2019). “Optimal Robust Control of LCL-type Grid-Connected Voltage Source Inverters against Grid Impedance Fluctuations.” Paper presented in 10th Annual International Power Electronics, Drive Systems and Technologies Conference (PEDSTC2019), Shiraz University, Shiraz, Iran.\\
+	    \href{https://doi.org/10.1109/PEDSTC.2019.8697514}{DOI: 10.1109/PEDSTC.2019.8697514}
+	    \item
+	    \textbf{S. Mohammadi}, M. Ojaghi, V. Tahsini (2018). “A Novel Unit Protection Scheme for Direct Current Power Systems.” Paper presented in smart grid conference 2018 (SGC2018), University of Kurdistan, Sanandaj, Iran.\\
+	    \href{https://doi.org/10.1109/SGC.2018.8777837}{DOI: 10.1109/SGC.2018.8777837}
+     \item
+	    \textbf{S. Mohammadi}, M. Ojaghi, A. Jalilvand, Q. Shafiee (2018). “Coordinated Control of Wind Turbines and Stabilizer Components for Effective Frequency Control of Multi-Area Power Systems in the presence of Physical Constraints. (Text in Farsi)” Paper presented in 12th International Energy Conference, Niroo Research Institute, Tehran, Iran.
+	\end{enumerate}
+\end{itemize}
+
+\section{~~Awards and Achievements}
+\begin{itemize}
+    \item EXP+ Student Conference Presentation Grant to attend 58th North American Power Symposium (NAPS) 2026
+    \item EXP+ Student Independent Research Grant 2025-26 to work on Deep Symbolic Regression (DSR) for Fault Current Phasor Estimation in Power Grids.
+    \item Student Travel Award to attend the 57th North American Power Symposium (NAPS) 2025
+    \item EXP+ Student Conference Presentation Grant to attend 57th North American Power Symposium (NAPS) 2025
+    \item  CECS Doctoral Student Conference Travel Grant to attend the 2025 IEEE Energy Conversion Conference and Expo (ECCE)
+    \item  CECS Doctoral Student Conference Travel Grant to attend the 2025 IEEE Power and Energy Society General Meeting (PESGM)
+    \item PhD Degree Scholarship, Fully Funded, University of Michigan-Dearborn
+    % \item Rank: 7/72 (Top 10\%), BSc Graduated Students, University of Kurdistan
+\end{itemize}
+
+\section{~~Research Experience}
+
+~~\textbf{Graduate Student Research Assistant, Department of Electrical \& Computer Engineering,\\
+~~University of Michigan-Dearborn, Aug 2023 - now}\\
+~~Working on topology estimation of low voltage distribution networks.
+\begin{itemize}
+    \item Two novel methods proposed for topology recovery in low voltage distribution networks using only smart meter data.  
+    \item Hierarchical clustering of incremental voltage measurements can reveal the topology of distribution network with high accuracy.
+    \item Investigating physics-informed neural networks for solving optimal power flow.   
+    \item A label-free neural network is trained for DC optimal power flow with high accuracy comparing to ground truth obtained via analytical solution.
+\end{itemize}
+
+~~\textbf{Graduate MSc student, Department of Electrical Engineering, University of Zanjan, 2021}\\
+~~Proposing a novel method for protecting meshed microgrids.
+\begin{itemize}
+    \item A pilot based unit protection method is proposed based on apparent resistance estimation of transmission lines.  
+    \item The efficiency of method is evaluated for meshed microgrids in both grid-connected and islanded modes under different contingencies. 
+\end{itemize}
+
+
+\section{~~Teaching Experience}
+
+~~\textbf{Graduate Student Instructor, University of Michigan-Dearborn, 2023-now}\\
+~~Courses: ECE 305, ECE 311, ECE 385, ECE 485, ECE 5831
+\begin{itemize}
+    \item Teaching lab sessions for ECE 305 and ECE 311
+    \item Grading homework, exams, and projects
+\end{itemize}
+
+~~\textbf{Teaching Assistant, University of Zanjan, 2018}\\
+~~Course: Electric Machines II\\
+\begin{itemize}
+    \item Solving different problems and discussing challenging topics in three phase inductive electric machines and single phase transformers.   
+    \item Evaluating BSc students via quiz tests in class.
+\end{itemize}
+
+% \section{~~Awards and Achievements}
+% \begin{itemize}
+%     \item EXP+ Student Independent Research Grant 2025-26 to work on Deep Symbolic Regression (DSR) for Fault Current Phasor Estimation in Power Grids.
+%     \item Student Travel Award to attend the 57th North American Power Symposium (NAPS) 2025
+%     \item EXP+ Student Conference Presentation Grant to attend 57th North American Power Symposium (NAPS) 2025
+%     \item  CECS Doctoral Student Conference Travel Grant to attend the 2025 IEEE Energy Conversion Conference and Expo (ECCE)
+%     \item  CECS Doctoral Student Conference Travel Grant to attend the 2025 IEEE Power and Energy Society General Meeting (PESGM)
+%     \item PhD Degree Scholarship, Fully Funded, University of Michigan-Dearborn
+%     \item Rank: 7/72 (Top 10\%), BSc Graduated Students, University of Kurdistan
+% \end{itemize}
+
+\section{~~Technical Skills}
+	\resumeSubHeadingListStart
+	\resumeSubItem{~~Programming \& Tools}{Python (NumPy, PyTorch, Pandas), MATLAB/Simulink, PowerWorld, PSCAD, Pspice, LaTeX/Overleaf}
+	\resumeSubItem{~~Power Systems}{OPF, distribution grid modeling, Y-bus estimation, microgrid protection, state estimation}
+    \resumeSubItem{~~Machine Learning}{Neural Networks, PINNs, surrogate models, clustering}
+\resumeSubHeadingListEnd
+
+\vspace{-5pt}
+\section{~~Memberships \& Academic Activities}
+~~Graduate Student Member, IEEE, 2023 - now\\
+\resumeSubHeadingListStart
+\resumeSubItem{~~Reviewer for}{IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, IEEE Power Engineering Letters, International Journal of Electrical Power \& Energy Systems, IEEE Transactions on Industrial Informatics, IEEE Transactions on Industrial Electronics, IEEE Transactions on Control of Network Systems, NAPS 2026 conference, IECON 2026 conference, IEEE ECCE 2025 conference}
+\resumeSubHeadingListEnd
+
+
+
+\section{~~Languages}
+~~Kurdish ~~Native\\
+~~Farsi ~~~~~ Bilingual Proficiency\\
+~~English ~~ Fluent\\
+% IELTS Score: 6.5 (L~6.5, R~6.5, W~6, S~7)
+
+
+\vspace{-5pt}
+\section{~~References}
+\begin{tabular}{lll}
+~~Wencong Su  &  ~~Van Hai-Bui&  ~~Qobad Shafiee\\
+~~Professor \& Chair & ~~Assistant Professor & ~~Associate Professor\\
+~~Senior Member of IEEE & ~~Senior Member of IEEE & ~~Senior Member of IEEE\\
+~~Department of Elect. \& Comp. Eng. & ~~Department of Elect. \& Comp. Eng. & ~~Department of Elect. Eng.\\
+~~University of Michigan-Dearborn, USA & ~~University of Michigan-Dearborn, USA & ~~University of Kurdistan, Sanandaj, Iran\\
+~~\href{mailto:wencong@umich.edu}{Email: wencong@umich.edu} & ~~\href{mailto:vhbui@umich.edu}{Email:vhbui@umich.edu} &
+~~\href{mailto:q.shafiee@uok.ac.ir}{Email: q.shafiee@uok.ac.ir}
+\end{tabular}
+
+\end{document}
